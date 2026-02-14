@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Segura?",
+    "Estás Segura?",
+    "Piensalo bien bebita",
+    "amor piensalo bien",
+    "no seas gay",
+    "por favooooooooor",
+    "No te voy a rogar mana",
+    "Piensa en tu viejita y acepta",
+    "Ok, preguntaré solo una vez más",
+    "mentira, di sí, te amo ❤️"
 ];
 
 let messageIndex = 0;
